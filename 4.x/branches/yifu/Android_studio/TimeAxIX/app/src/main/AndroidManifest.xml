@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.VerticalActivity"></activity>
+        <activity android:name=".activity.VerticalActivity" />
+        <activity android:name=".activity.HorizontalActivity"></activity>
     </application>
 
 </manifest>

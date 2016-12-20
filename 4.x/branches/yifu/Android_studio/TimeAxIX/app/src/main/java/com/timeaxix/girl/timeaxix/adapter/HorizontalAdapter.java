@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * @类名称: CLASS
  * @类描述:
- * @创建人：刘丽杰
+ * @创建人：""
  * @创建时间：2016/12/20 15:29
  * @备注：
  */
@@ -48,7 +48,7 @@ public class HorizontalAdapter extends BaseAdapter {
     public View getView(int i, View view, ViewGroup viewGroup) {
         ViewHolder holder;
         if (view == null) {
-            view = layoutInflater.inflate(R.layout.item_lv, viewGroup, false);
+            view = layoutInflater.inflate(R.layout.item_hlv, viewGroup, false);
             holder = new ViewHolder();
             holder.tv_content = (TextView) view.findViewById(R.id.tv_content);
             view.setTag(holder);
