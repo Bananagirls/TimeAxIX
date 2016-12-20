@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_black_ff333333">#ff333333</color>
+    <color name="color_black_ff666666">#ff666666</color>
+    <color name="color_black_ff999999">#ff999999</color>
+    <color name="color_gray_bfc2c5">#bfc2c5</color>
+    <color name="find_tab_color">#dcdcdc</color>
+    <color name="main_split_line">#DFDFDF</color>
+    <color name="main_background">#F3F3F3</color>
+    <color name="main_background_title">#FFFFFF</color>
+    <color name="main_colors">#26CDB3</color>
+    <color name="red">#ff3a30</color>
+    <color name="main_big_title">#494E4D</color>
+    <color name="text_black_2">#494e4e</color>
+    <color name="main_text">#6B6F6E</color>
+    <color name="main_embellishment_gray">#c3c2c2</color>
+    <color name="register_embellishment_gray">#989797</color>
+    <color name="main_embellishment_red">#FE6A6A</color>
+    <color name="register_colors">#cecece</color>
+    <color name="register_register_colors">#26cdb3</color>
+    <color name="register_login_colors">#26CDB3</color>
+    <color name="j_wheel_timebtn_nor">#54a3fa</color>
+    <color name="blue_light">#258bf7</color>
+    <color name="j_wheel_timebtn_pre">#CCCCCC</color>
+    <color name="gray">#888888</color>
+    <color name="gray_1">#44888888</color>
+    <color name="gray_3">#c3c2c2</color>
+    <color name="date_1">#F24949</color>
+    <color name="date_2">#6b6f6e</color>
+    <color name="date_3">#6b6e6f</color>
+    <color name="gray_4">#a6a6a6</color>
+    <color name="gray_5">#a2a1a1</color>
+</resources>
